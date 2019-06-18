@@ -1,0 +1,40 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: rgb(219, 31, 31);
+    background-color: gold;
+    font-size: medium; 
+
+}
+
+:img {
+    size: 25%;
+}
+.btn-default {
+    color: rgb(219, 31, 31);
+    font-size: medium;
+    background-color: gold;
+}
+
+body {
+	background-image: url("../assets/images/background.jpg");
+    font-family: 'Berkshire Swash', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+    color: rgb(219, 31, 31);
+    background-color: gold;
+}
